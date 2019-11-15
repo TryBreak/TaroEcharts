@@ -153,3 +153,7 @@ componentDidMount() {
 ### 如何在一个页面中加载多个图表？
 
 参见 `pages/Add/Add` 的例子。
+
+## 结束语
+
+> 请忽略`eslint`的波浪线
