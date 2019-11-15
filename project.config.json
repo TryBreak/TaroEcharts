@@ -1,0 +1,32 @@
+{
+	"miniprogramRoot": "dist/",
+	"description": "xxx项目描述xxx",
+	"appid": "wx6aa37b570324303c",
+	"projectname": "xxx%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0xxx",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"enhance": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": true,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"bundle": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.9.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
